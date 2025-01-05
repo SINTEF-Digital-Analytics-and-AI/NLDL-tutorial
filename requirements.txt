@@ -1,0 +1,8 @@
+matplotlib
+numpy<2
+torch
+ipykernel
+tqdm
+seaborn
+phlearn
+scipy
