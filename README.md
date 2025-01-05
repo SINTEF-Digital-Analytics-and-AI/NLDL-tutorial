@@ -1,6 +1,6 @@
 # Structure-preserving machine learning for physical systems
 
-## NLDL 2025 Winter School Tutorial
+**NLDL 2025 Winter School Tutorial**
 
 This repository contains three notebooks with introductory exercises on physics-informed machine learning.
 
